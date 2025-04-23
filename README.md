@@ -1,1 +1,0 @@
-# Versi-n1.py
